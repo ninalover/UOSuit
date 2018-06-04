@@ -1,4 +1,6 @@
-﻿// leger lidt med arrays og lists.
+// UO Endless suit calculator
+// (C) 2017 Martin Østergaard / martin.ms404@gmail.com
+// Released under GPL V2 or later.
 
 
 
@@ -126,8 +128,8 @@ namespace UO_Endless_Suit_Calculator
             System.Console.WriteLine("F5 Save all : F4 save item part at cursor location");
             System.Console.WriteLine("F3 Calculate the suit and show result.");
             System.Console.WriteLine("Use Cursor keys/pageUP/pageDOWN/HOME/END to navigate");
-            System.Console.WriteLine("UO Endless suit calculator is free to use");
-            System.Console.WriteLine("Released Under GPL V2 or later.");
+            System.Console.WriteLine("UO Endless suit calculator is free to use/ Released under GPL");
+            System.Console.WriteLine("(C) 2017 Martin Østergaard / martin.ms404@gmail.com");
 
 
 
@@ -350,34 +352,6 @@ namespace UO_Endless_Suit_Calculator
                 tmp[c] = tmp1[c];
 
             }
-
-            
-            /*
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-            */
-
-
-
-
-
-
-
-
-
-
-
-
 
         }
 
